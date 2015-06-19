@@ -1,0 +1,7 @@
+C:\dev\COB.LogWrapper\COB.LogWrapper\bin\Debug\COB.LogWrapper.dll
+C:\dev\COB.LogWrapper\COB.LogWrapper\bin\Debug\COB.LogWrapper.pdb
+C:\dev\COB.LogWrapper\COB.LogWrapper\bin\Debug\log4net.dll
+C:\dev\COB.LogWrapper\COB.LogWrapper\bin\Debug\log4net.xml
+C:\dev\COB.LogWrapper\COB.LogWrapper\obj\Debug\COB.LogWrapper.csprojResolveAssemblyReference.cache
+C:\dev\COB.LogWrapper\COB.LogWrapper\obj\Debug\COB.LogWrapper.dll
+C:\dev\COB.LogWrapper\COB.LogWrapper\obj\Debug\COB.LogWrapper.pdb
